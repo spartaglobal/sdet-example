@@ -7,6 +7,7 @@ The environment must have a version of ruby greater than 2.3.3. Preferably 2.4.0
 Typically the SDETs would then clone this repo and run the following command to setup the environment and install the gems:
 
 ```bash
+gem install bundler
 bundle install
 ```
 
